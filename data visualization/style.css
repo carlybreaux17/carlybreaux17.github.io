@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+  text-align: center;
+  background: #c6fff8;
+  }
+h1 {
+  color: #a747b2;
+  font-family: Helvetica;
+  font-size: 220%;
+}
+
+p {
+  color: #00EE76;
+  font-family: Noteworthy;
+  font-size: 90%;
+}
